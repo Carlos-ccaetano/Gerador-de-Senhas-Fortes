@@ -73,8 +73,8 @@ Senha salva com sucesso em 'passwords.csv'.
 - Exportação de dados para formato **CSV**.  
 
 ---
-
-## 🔮 Próximos Passos
+## 📌 Próximas atualizações:
+*(No momento estou envolvido em outros projetos e pesquisas acadêmicas, por isso ainda não finalizei todas as melhorias. Mas seguem algumas ideias futuras — e claro, contribuições são bem-vindas!)*
 - [ ] Adicionar interface gráfica simples (Tkinter).  
 - [ ] Opção para salvar várias senhas em lote.  
 - [ ] Implementar suporte a diferentes formatos de exportação (TXT/JSON).  
@@ -87,6 +87,9 @@ Abra uma **issue** ou envie um **pull request**.
 
 ---
 
-## 📜 Autor
-Projeto desenvolvido por **Carlos Caetano**.  
+## 👤 Autor
+**Carlos Caetano**  
+🔗 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN) | 💻 [GitHub](https://github.com/Carlos-ccaetano)  
+
+---
 
